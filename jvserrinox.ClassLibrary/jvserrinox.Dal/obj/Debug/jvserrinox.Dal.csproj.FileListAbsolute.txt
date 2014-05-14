@@ -1,0 +1,15 @@
+D:\Projetos\jvserrinox\jvserrinox.ClassLibrary\jvserrinox.ClassLibrary\jvserrinox.Dlls\jvserrinox.Dal.dll
+D:\Projetos\jvserrinox\jvserrinox.ClassLibrary\jvserrinox.ClassLibrary\jvserrinox.Dlls\jvserrinox.Dal.pdb
+D:\Projetos\jvserrinox\jvserrinox.ClassLibrary\jvserrinox.ClassLibrary\jvserrinox.Dal\obj\Debug\jvserrinox.Dal.csprojResolveAssemblyReference.cache
+D:\Projetos\jvserrinox\jvserrinox.ClassLibrary\jvserrinox.ClassLibrary\jvserrinox.Dal\obj\Debug\jvserrinox.Dal.dll
+D:\Projetos\jvserrinox\jvserrinox.ClassLibrary\jvserrinox.ClassLibrary\jvserrinox.Dal\obj\Debug\jvserrinox.Dal.pdb
+D:\Projetos\jvserrinox\jvserrinox.ClassLibrary\jvserrinox.Dlls\jvserrinox.Dal.dll
+D:\Projetos\jvserrinox\jvserrinox.ClassLibrary\jvserrinox.Dlls\jvserrinox.Dal.pdb
+D:\Projetos\jvserrinox\jvserrinox.ClassLibrary\jvserrinox.Dal\obj\Debug\jvserrinox.Dal.csprojResolveAssemblyReference.cache
+D:\Projetos\jvserrinox\jvserrinox.ClassLibrary\jvserrinox.Dal\obj\Debug\jvserrinox.Dal.dll
+D:\Projetos\jvserrinox\jvserrinox.ClassLibrary\jvserrinox.Dal\obj\Debug\jvserrinox.Dal.pdb
+C:\SEBCOC\jvserrinox\jvserrinox.ClassLibrary\jvserrinox.Dlls\jvserrinox.Dal.dll
+C:\SEBCOC\jvserrinox\jvserrinox.ClassLibrary\jvserrinox.Dlls\jvserrinox.Dal.pdb
+C:\SEBCOC\jvserrinox\jvserrinox.ClassLibrary\jvserrinox.Dal\obj\Debug\jvserrinox.Dal.csprojResolveAssemblyReference.cache
+C:\SEBCOC\jvserrinox\jvserrinox.ClassLibrary\jvserrinox.Dal\obj\Debug\jvserrinox.Dal.dll
+C:\SEBCOC\jvserrinox\jvserrinox.ClassLibrary\jvserrinox.Dal\obj\Debug\jvserrinox.Dal.pdb

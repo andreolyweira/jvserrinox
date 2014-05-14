@@ -1,0 +1,5 @@
+C:\SEBCOC\jvserrinox\Nucleo\EnvioEmail\bin\Debug\EnvioEmail.dll
+C:\SEBCOC\jvserrinox\Nucleo\EnvioEmail\bin\Debug\EnvioEmail.pdb
+C:\SEBCOC\jvserrinox\Nucleo\EnvioEmail\obj\Debug\EnvioEmail.csprojResolveAssemblyReference.cache
+C:\SEBCOC\jvserrinox\Nucleo\EnvioEmail\obj\Debug\EnvioEmail.dll
+C:\SEBCOC\jvserrinox\Nucleo\EnvioEmail\obj\Debug\EnvioEmail.pdb

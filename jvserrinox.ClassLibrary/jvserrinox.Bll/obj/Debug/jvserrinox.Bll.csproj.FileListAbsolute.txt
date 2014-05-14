@@ -1,0 +1,14 @@
+D:\Projetos\jvserrinox\jvserrinox.ClassLibrary\jvserrinox.ClassLibrary\jvserrinox.Dlls\jvserrinox.Bll.dll
+D:\Projetos\jvserrinox\jvserrinox.ClassLibrary\jvserrinox.ClassLibrary\jvserrinox.Dlls\jvserrinox.Bll.pdb
+D:\Projetos\jvserrinox\jvserrinox.ClassLibrary\jvserrinox.ClassLibrary\jvserrinox.Bll\obj\Debug\jvserrinox.Bll.dll
+D:\Projetos\jvserrinox\jvserrinox.ClassLibrary\jvserrinox.ClassLibrary\jvserrinox.Bll\obj\Debug\jvserrinox.Bll.pdb
+D:\Projetos\jvserrinox\jvserrinox.ClassLibrary\jvserrinox.Dlls\jvserrinox.Bll.dll
+D:\Projetos\jvserrinox\jvserrinox.ClassLibrary\jvserrinox.Dlls\jvserrinox.Bll.pdb
+D:\Projetos\jvserrinox\jvserrinox.ClassLibrary\jvserrinox.Bll\obj\Debug\jvserrinox.Bll.csprojResolveAssemblyReference.cache
+D:\Projetos\jvserrinox\jvserrinox.ClassLibrary\jvserrinox.Bll\obj\Debug\jvserrinox.Bll.dll
+D:\Projetos\jvserrinox\jvserrinox.ClassLibrary\jvserrinox.Bll\obj\Debug\jvserrinox.Bll.pdb
+C:\SEBCOC\jvserrinox\jvserrinox.ClassLibrary\jvserrinox.Dlls\jvserrinox.Bll.dll
+C:\SEBCOC\jvserrinox\jvserrinox.ClassLibrary\jvserrinox.Dlls\jvserrinox.Bll.pdb
+C:\SEBCOC\jvserrinox\jvserrinox.ClassLibrary\jvserrinox.Bll\obj\Debug\jvserrinox.Bll.csprojResolveAssemblyReference.cache
+C:\SEBCOC\jvserrinox\jvserrinox.ClassLibrary\jvserrinox.Bll\obj\Debug\jvserrinox.Bll.dll
+C:\SEBCOC\jvserrinox\jvserrinox.ClassLibrary\jvserrinox.Bll\obj\Debug\jvserrinox.Bll.pdb

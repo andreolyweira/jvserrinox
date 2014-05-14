@@ -1,0 +1,6 @@
+C:\SEBCOC\jvserrinox\Nucleo\Nucleo\obj\Debug\Nucleo.csprojResolveAssemblyReference.cache
+C:\SEBCOC\jvserrinox\Nucleo\Nucleo.Dlls\Nucleo.dll.config
+C:\SEBCOC\jvserrinox\Nucleo\Nucleo.Dlls\Nucleo.dll
+C:\SEBCOC\jvserrinox\Nucleo\Nucleo.Dlls\Nucleo.pdb
+C:\SEBCOC\jvserrinox\Nucleo\Nucleo\obj\Debug\Nucleo.dll
+C:\SEBCOC\jvserrinox\Nucleo\Nucleo\obj\Debug\Nucleo.pdb
